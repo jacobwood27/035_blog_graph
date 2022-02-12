@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.2;
+}
+
+text {
+  font: 24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-anchor: middle;
+  pointer-events: none;
+}
+
+.tooltip {
+  position: absolute;
+  background: cornsilk;
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 2px 4px;
+}
+
+svg .grey {
+  fill: rgb(114, 132, 56);
+  stroke: rgb(114, 132, 56);
+  stroke-width: 1;
+}
+
+.node:hover circle {
+  fill: orange;
+}
+
+</style>
+<svg width=100vw height=100vh>
+</svg>
+<div id="tooltip" class="tooltip" style="display: none;"></div>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+var svg = d3.select("svg");
+
+var shapes = svg.append("g");
+
+var width = window.innerWidth;
+var height = window.innerHeight;
+//var color = "#b67a4e";
+//var color = d3.scaleOrdinal(["#4e79a7","#f28e2c","#e15759","#76b7b2","#59a14f","#edc949","#af7aa1","#ff9da7","#9c755f","#bab0ab"]);
+//var color = d3.scaleOrdinal(["#c97d34","#5c38b8","#66b743","#be4ed7","#b5a647","#7176d3","#d14530","#66b28b","#c5449b","#4c6431","#cd466b","#5d96ba","#76372e","#c48ac1","#ce8b7d","#5c3b70"]);
+//var color = d3.scaleOrdinal(d3.schemeSpectral[9]);
+var color = d3.scaleOrdinal(d3.schemeTableau10);
+
+let zoom = d3.zoom()
+  .on('zoom', handleZoom);
+
+function handleZoom(e) {
+  d3.select('svg').select('g')
+    .attr('transform', e.transform);
+}
+
+function initZoom() {
+  d3.select('svg')
+    .call(zoom);
+} 
+
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force("charge", d3.forceManyBody().strength(-20))
+    .force("collision", d3.forceCollide().radius(function(d) { return 2*d.size+1; }))
+    .force("center", d3.forceCenter(width / 2, height / 2).strength(0.5))
+    .force("x", d3.forceX(0.0).strength(0.01))
+    .force("y", d3.forceY(0.0).strength(0.01))
+    .alphaDecay(0.01);
+
+d3.json("dat.json").then(graph => {
+
+  var link = shapes
+      .append("g")
+      .attr("class", "links")
+      .selectAll("line")
+      .data(graph.links)
+      .enter().append("line")
+      .attr("marker-end", "url(#arrow)")
+      .attr("stroke-width", 1); //function(d) { return Math.sqrt(d.value); });
+
+  var node = shapes
+    .append("g")
+    .attr("class", "nodes")
+    .selectAll("g")
+    .data(graph.nodes)
+    .enter().append("g");
+
+  var circles = node.append("circle")
+    .attr("r", function(d) { return 2*d.size +1; })
+    .attr("fill", function(d) { return color(d.group); })
+    .attr("stroke-width", "0");
+
+  node.append("text")
+    .text(function(d) { return d.id; })
+    .style("font-size", function(d) { return (2 * ( 2*d.size +1) - 0) / this.getComputedTextLength() * 0.8 * 24 + "px"; })
+    .attr("dy", ".35em");
+
+
+  const tooltipTriggers = document.querySelectorAll("circle");
+  Array.from(tooltipTriggers).map(trigger => {
+        trigger.addEventListener('mousemove', showTooltip);
+        trigger.addEventListener('mouseout', hideTooltip);
+  });
+
+
+  // Create a drag handler and append it to the node object instead
+  var drag_handler = d3.drag()
+      .on("start", dragstarted)
+      .on("drag", dragged)
+      .on("end", dragended);
+
+  drag_handler(node);
+  
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links);
+
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node
+        .attr("transform", function(d) {
+          return "translate(" + d.x + "," + d.y + ")";
+        })
+  }
+});
+
+function dragstarted(event,d) {
+  if (!event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(event,d) {
+  d.fx = event.x;
+  d.fy = event.y;
+}
+
+function dragended(event,d) {
+  if (!event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+initZoom();
+
+function showTooltip(event) {
+
+  let tooltipElement = document.getElementById('tooltip');
+  
+  tooltipElement.innerHTML = event.target.nextElementSibling.innerHTML;
+  tooltipElement.style.display = 'block';
+  tooltipElement.style.left = event.pageX + 10 + 'px';
+  tooltipElement.style.top = event.pageY + 10 + 'px';
+}
+
+function hideTooltip() {
+  var tooltip = document.getElementById('tooltip');
+  tooltip.style.display = 'none';
+}
+
+
+
+</script>
