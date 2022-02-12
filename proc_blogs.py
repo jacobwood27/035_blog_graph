@@ -26,7 +26,8 @@ TRANSLATE = {
     "andrewgelman.com": "statmodeling.stat.columbia.edu",
     "taxprof.typepad.com/taxprof_blog": "taxprof.typepad.com",
     "gnxp.com/": "razib.substack.com",
-    "io9.com": "gizmodo.com/io9"
+    "io9.com": "gizmodo.com/io9",
+    "worthwhile.typepad.com/worthwhile_canadian_initi": "worthwhile.typepad.com"
 }
 
 PREFIXES = [
@@ -80,7 +81,8 @@ def main(txtfile, todofile, filter=True):
             cur_node = s
             bnodes.append(s)
         else:
-            g.add_edge(cur_node,s)
+            if not g.are_connected(cur_node,s):
+                g.add_edge(cur_node,s)
     g0 = copy.deepcopy(g)
     
     # Remove singletons
