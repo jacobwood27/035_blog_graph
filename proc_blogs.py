@@ -30,11 +30,11 @@ TRANSLATE = {
 }
 
 PREFIXES = [
-    "https://www."
-    "http://www."
-    "https://"
-    "http://"
-    "www."
+    "https://www.",
+    "http://www.",
+    "https://",
+    "http://",
+    "www.",
 ]
 
 def get_root(s):
@@ -134,12 +134,13 @@ def main(txtfile, todofile, filter=True):
             print("[" + anodes[s] + "]", file=f)
             
     #Write out new blogs.txt
-    anodes = [n for n in nodes if n not in bnodes]
     scores = [len(g0.neighbors(g0.vs.find(n),mode="in")) for n in anodes]
-    s_sort = np.flip(np.argsort(scores))
-    with open(todofile, 'w') as f:
-        for s in s_sort:
-            print("[" + anodes[s] + "]", file=f)
+    with open(txtfile, 'w') as f:
+        for n in bnodes:
+            print("[" + n + "]", file=f)
+            outn = g0.neighbors(g0.vs.find(n),mode="out")
+            for on in outn:
+                print(g0.vs[on]["name"], file=f)
             
 
 if __name__ == '__main__':

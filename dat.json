@@ -32,8 +32,8 @@
     },
     {
       "id": "marginalrevolution.com",
-      "group": 4,
-      "size": 26
+      "group": 1,
+      "size": 28
     },
     {
       "id": "razib.substack.com",
@@ -43,7 +43,7 @@
     {
       "id": "scottaaronson.com/blog",
       "group": 3,
-      "size": 5
+      "size": 6
     },
     {
       "id": "infoproc.blogspot.com",
@@ -113,7 +113,7 @@
     {
       "id": "cafehayek.com",
       "group": 4,
-      "size": 15
+      "size": 16
     },
     {
       "id": "mungowitzend.blogspot.com",
@@ -127,7 +127,7 @@
     },
     {
       "id": "conversableeconomist.blogspot.com",
-      "group": 4,
+      "group": 1,
       "size": 5
     },
     {
@@ -138,22 +138,22 @@
     {
       "id": "econbrowser.com",
       "group": 1,
-      "size": 8
+      "size": 10
     },
     {
       "id": "econlog.econlib.org",
       "group": 4,
-      "size": 16
+      "size": 17
     },
     {
       "id": "economistsview.typepad.com",
       "group": 1,
-      "size": 9
+      "size": 11
     },
     {
       "id": "gregmankiw.blogspot.com",
       "group": 4,
-      "size": 15
+      "size": 16
     },
     {
       "id": "overcomingbias.com",
@@ -162,13 +162,13 @@
     },
     {
       "id": "statmodeling.stat.columbia.edu",
-      "group": 3,
-      "size": 7
+      "group": 1,
+      "size": 9
     },
     {
       "id": "johnhcochrane.blogspot.com",
-      "group": 4,
-      "size": 6
+      "group": 1,
+      "size": 7
     },
     {
       "id": "themoneyillusion.com",
@@ -177,8 +177,8 @@
     },
     {
       "id": "voxeu.org",
-      "group": 4,
-      "size": 2
+      "group": 1,
+      "size": 3
     },
     {
       "id": "slowboring.com",
@@ -208,7 +208,7 @@
     {
       "id": "terrytao.wordpress.com",
       "group": 3,
-      "size": 3
+      "size": 4
     },
     {
       "id": "dabacon.org/pontiff",
@@ -216,9 +216,14 @@
       "size": 2
     },
     {
-      "id": "backreaction.blogspot.com",
+      "id": "gowers.wordpress.com",
       "group": 3,
       "size": 2
+    },
+    {
+      "id": "backreaction.blogspot.com",
+      "group": 3,
+      "size": 3
     },
     {
       "id": "quantumfrontiers.com",
@@ -332,7 +337,7 @@
     },
     {
       "id": "thebigquestions.com/blog",
-      "group": 4,
+      "group": 3,
       "size": 5
     },
     {
@@ -378,7 +383,7 @@
     {
       "id": "daviddfriedman.blogspot.com",
       "group": 4,
-      "size": 5
+      "size": 6
     },
     {
       "id": "knowledgeproblem.com",
@@ -402,8 +407,8 @@
     },
     {
       "id": "timworstall.com",
-      "group": 0,
-      "size": 3
+      "group": 5,
+      "size": 4
     },
     {
       "id": "reason.com/volokh",
@@ -412,8 +417,8 @@
     },
     {
       "id": "bleedingheartlibertarians.com",
-      "group": 4,
-      "size": 3
+      "group": 5,
+      "size": 4
     },
     {
       "id": "coordinationproblem.org",
@@ -437,7 +442,7 @@
     },
     {
       "id": "offsettingbehaviour.blogspot.com",
-      "group": 3,
+      "group": 5,
       "size": 3
     },
     {
@@ -447,7 +452,7 @@
     },
     {
       "id": "samizdata.net",
-      "group": 4,
+      "group": 5,
       "size": 2
     },
     {
@@ -467,7 +472,7 @@
     },
     {
       "id": "catallaxyfiles.com",
-      "group": 4,
+      "group": 5,
       "size": 4
     },
     {
@@ -577,8 +582,8 @@
     },
     {
       "id": "crookedtimber.org",
-      "group": 1,
-      "size": 6
+      "group": 5,
+      "size": 7
     },
     {
       "id": "brookings.edu/blogs/ben-bernanke",
@@ -588,7 +593,7 @@
     {
       "id": "braddelong.substack.com",
       "group": 1,
-      "size": 6
+      "size": 7
     },
     {
       "id": "dolanecon.blogspot.com",
@@ -627,7 +632,7 @@
     },
     {
       "id": "caseymulligan.blogspot.com",
-      "group": 4,
+      "group": 1,
       "size": 3
     },
     {
@@ -667,7 +672,7 @@
     },
     {
       "id": "stumblingandmumbling.typepad.com",
-      "group": 1,
+      "group": 5,
       "size": 6
     },
     {
@@ -686,12 +691,27 @@
       "size": 5
     },
     {
+      "id": "bankunderground.co.uk",
+      "group": 5,
+      "size": 2
+    },
+    {
       "id": "blogs.cfr.org/setser",
       "group": 1,
       "size": 2
     },
     {
+      "id": "bruegel.org/blog",
+      "group": 5,
+      "size": 2
+    },
+    {
       "id": "blogs.wellesley.edu/jjoyce",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "capitalspectator.com",
       "group": 1,
       "size": 2
     },
@@ -717,6 +737,11 @@
     },
     {
       "id": "digitopoly.org",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "econacademics.org",
       "group": 1,
       "size": 2
     },
@@ -747,13 +772,13 @@
     },
     {
       "id": "fistfulofeuros.net",
-      "group": 1,
-      "size": 2
+      "group": 5,
+      "size": 3
     },
     {
       "id": "fxdiebold.blogspot.com",
       "group": 1,
-      "size": 3
+      "size": 4
     },
     {
       "id": "freakonomics.com/blog",
@@ -822,7 +847,7 @@
     },
     {
       "id": "danieldrezner.com/blog",
-      "group": 1,
+      "group": 5,
       "size": 3
     },
     {
@@ -838,6 +863,11 @@
     {
       "id": "worthwhile.typepad.com/worthwhile_canadian_initi",
       "group": 1,
+      "size": 4
+    },
+    {
+      "id": "afinetheorem.wordpress.com",
+      "group": 5,
       "size": 2
     },
     {
@@ -847,11 +877,16 @@
     },
     {
       "id": "ftalphaville.ft.com",
-      "group": 1,
+      "group": 5,
       "size": 2
     },
     {
       "id": "andolfatto.blogspot.com",
+      "group": 1,
+      "size": 4
+    },
+    {
+      "id": "marcfbellemare.com/wordpress",
       "group": 1,
       "size": 3
     },
@@ -863,6 +898,21 @@
     {
       "id": "rjwaldmann.blogspot.com",
       "group": 1,
+      "size": 2
+    },
+    {
+      "id": "rogerfarmer.com/rogerfarmerblog",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "stochastictrend.blogspot.com",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "bigpicture.typepad.com",
+      "group": 5,
       "size": 2
     },
     {
@@ -882,7 +932,7 @@
     },
     {
       "id": "aldaily.com",
-      "group": 3,
+      "group": 0,
       "size": 5
     },
     {
@@ -927,17 +977,27 @@
     },
     {
       "id": "retractionwatch.com",
-      "group": 3,
+      "group": 1,
       "size": 2
     },
     {
       "id": "rajivsethi.substack.com",
-      "group": 3,
+      "group": 1,
       "size": 2
     },
     {
       "id": "junkcharts.typepad.com/numbersruleyourworld",
-      "group": 3,
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "r-bloggers.com",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "johndcook.com/blog",
+      "group": 1,
       "size": 2
     },
     {
@@ -967,8 +1027,8 @@
     },
     {
       "id": "notesonliberty.com",
-      "group": 1,
-      "size": 3
+      "group": 5,
+      "size": 4
     },
     {
       "id": "nothingismere.com",
@@ -1027,7 +1087,7 @@
     },
     {
       "id": "bradleyahansen.blogspot.com",
-      "group": 7,
+      "group": 5,
       "size": 1
     },
     {
@@ -1057,7 +1117,7 @@
     },
     {
       "id": "mises.org/power-market",
-      "group": 4,
+      "group": 5,
       "size": 2
     },
     {
@@ -1069,6 +1129,26 @@
       "id": "math.columbia.edu/~woit/wordpress",
       "group": 3,
       "size": 3
+    },
+    {
+      "id": "neverendingbooks.org",
+      "group": 3,
+      "size": 2
+    },
+    {
+      "id": "sbseminar.wordpress.com",
+      "group": 3,
+      "size": 2
+    },
+    {
+      "id": "golem.ph.utexas.edu/category",
+      "group": 3,
+      "size": 2
+    },
+    {
+      "id": "golem.ph.utexas.edu/~distler/blog",
+      "group": 3,
+      "size": 2
     },
     {
       "id": "ace.mu.nu",
@@ -1108,7 +1188,7 @@
     {
       "id": "instapundit.com",
       "group": 2,
-      "size": 15
+      "size": 16
     },
     {
       "id": "manhattancontrarian.com",
@@ -1128,7 +1208,7 @@
     {
       "id": "zerohedge.com",
       "group": 1,
-      "size": 4
+      "size": 5
     },
     {
       "id": "avoyagetoarcturus.blogspot.com",
@@ -1157,7 +1237,7 @@
     },
     {
       "id": "architectureandmorality.blogspot.com",
-      "group": 5,
+      "group": 6,
       "size": 3
     },
     {
@@ -1167,7 +1247,7 @@
     },
     {
       "id": "automaticballpoint.com",
-      "group": 6,
+      "group": 5,
       "size": 1
     },
     {
@@ -1177,7 +1257,7 @@
     },
     {
       "id": "balkin.blogspot.com",
-      "group": 1,
+      "group": 5,
       "size": 3
     },
     {
@@ -1192,7 +1272,7 @@
     },
     {
       "id": "bldgblog.blogspot.com",
-      "group": 5,
+      "group": 6,
       "size": 2
     },
     {
@@ -1208,7 +1288,7 @@
     {
       "id": "buzzmachine.com",
       "group": 2,
-      "size": 2
+      "size": 3
     },
     {
       "id": "captainsjournal.com",
@@ -1227,7 +1307,7 @@
     },
     {
       "id": "peterturchin.com/blog",
-      "group": 7,
+      "group": 5,
       "size": 2
     },
     {
@@ -1243,7 +1323,7 @@
     {
       "id": "dailypundit.com",
       "group": 2,
-      "size": 5
+      "size": 6
     },
     {
       "id": "danieljmitchell.wordpress.com",
@@ -1263,7 +1343,7 @@
     {
       "id": "davidwarrenonline.com",
       "group": 0,
-      "size": 3
+      "size": 4
     },
     {
       "id": "dealbreaker.com",
@@ -1272,7 +1352,7 @@
     },
     {
       "id": "thediplomat.com",
-      "group": 6,
+      "group": 5,
       "size": 2
     },
     {
@@ -1288,7 +1368,7 @@
     {
       "id": "directorblue.blogspot.com",
       "group": 0,
-      "size": 3
+      "size": 4
     },
     {
       "id": "elderofziyon.blogspot.com",
@@ -1317,12 +1397,12 @@
     },
     {
       "id": "globalguerrillas.typepad.com",
-      "group": 6,
+      "group": 5,
       "size": 2
     },
     {
       "id": "graphpaperdiaries.com",
-      "group": 0,
+      "group": 1,
       "size": 3
     },
     {
@@ -1362,7 +1442,7 @@
     },
     {
       "id": "informationdissemination.net",
-      "group": 6,
+      "group": 5,
       "size": 2
     },
     {
@@ -1422,7 +1502,7 @@
     },
     {
       "id": "lawfareblog.com",
-      "group": 1,
+      "group": 5,
       "size": 2
     },
     {
@@ -1433,7 +1513,7 @@
     {
       "id": "likelihoodofconfusion.com",
       "group": 2,
-      "size": 2
+      "size": 3
     },
     {
       "id": "lileks.com",
@@ -1452,7 +1532,7 @@
     },
     {
       "id": "memeorandum.com",
-      "group": 2,
+      "group": 0,
       "size": 5
     },
     {
@@ -1468,7 +1548,7 @@
     {
       "id": "nalert.blogspot.com",
       "group": 0,
-      "size": 2
+      "size": 3
     },
     {
       "id": "nextbigfuture.com",
@@ -1487,7 +1567,7 @@
     },
     {
       "id": "offshorebalancer.wordpress.com",
-      "group": 6,
+      "group": 5,
       "size": 2
     },
     {
@@ -1498,12 +1578,17 @@
     {
       "id": "theothermccain.com",
       "group": 0,
-      "size": 3
+      "size": 4
     },
     {
       "id": "overlawyered.com",
       "group": 0,
       "size": 4
+    },
+    {
+      "id": "kenanmalik.wordpress.com",
+      "group": 5,
+      "size": 2
     },
     {
       "id": "patterico.com",
@@ -1522,12 +1607,12 @@
     },
     {
       "id": "pajamasmedia.com",
-      "group": 5,
+      "group": 6,
       "size": 4
     },
     {
       "id": "popehat.substack.com",
-      "group": 1,
+      "group": 5,
       "size": 2
     },
     {
@@ -1537,7 +1622,7 @@
     },
     {
       "id": "pseudoerasmus.com",
-      "group": 7,
+      "group": 5,
       "size": 2
     },
     {
@@ -1547,7 +1632,7 @@
     },
     {
       "id": "rantburg.com",
-      "group": 0,
+      "group": 2,
       "size": 3
     },
     {
@@ -1567,13 +1652,13 @@
     },
     {
       "id": "redstate.com",
-      "group": 0,
+      "group": 2,
       "size": 6
     },
     {
       "id": "samizdata.net/blog",
-      "group": 0,
-      "size": 6
+      "group": 5,
+      "size": 8
     },
     {
       "id": "blog.dilbert.com",
@@ -1583,7 +1668,7 @@
     {
       "id": "senseofevents.blogspot.com",
       "group": 2,
-      "size": 2
+      "size": 3
     },
     {
       "id": "seraphicpress.com",
@@ -1627,7 +1712,7 @@
     },
     {
       "id": "talkleft.com",
-      "group": 1,
+      "group": 5,
       "size": 3
     },
     {
@@ -1647,7 +1732,7 @@
     },
     {
       "id": "blogs.news.com.au/dailytelegraph/timblair",
-      "group": 0,
+      "group": 2,
       "size": 4
     },
     {
@@ -1662,7 +1747,7 @@
     },
     {
       "id": "vpostrel.com",
-      "group": 0,
+      "group": 5,
       "size": 2
     },
     {
@@ -1727,13 +1812,13 @@
     },
     {
       "id": "timworstall.typepad.com/timworstall",
-      "group": 5,
+      "group": 6,
       "size": 2
     },
     {
       "id": "rightwingnews.com",
       "group": 2,
-      "size": 3
+      "size": 4
     },
     {
       "id": "xkcd.com",
@@ -1741,13 +1826,38 @@
       "size": 2
     },
     {
+      "id": "enlightenmenteconomics.com/blog",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "econjeff.blogspot.com",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "longandvariable.wordpress.com",
+      "group": 5,
+      "size": 2
+    },
+    {
       "id": "calculatedriskblog.com",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "freakonometrics.hypotheses.org",
       "group": 1,
       "size": 2
     },
     {
       "id": "mathbabe.org",
       "group": 1,
+      "size": 3
+    },
+    {
+      "id": "rodrik.typepad.com/dani_rodriks_weblog",
+      "group": 5,
       "size": 2
     },
     {
@@ -1827,7 +1937,7 @@
     },
     {
       "id": "michellemalkin.com",
-      "group": 0,
+      "group": 2,
       "size": 3
     },
     {
@@ -1857,12 +1967,12 @@
     },
     {
       "id": "rogerlsimon.com",
-      "group": 5,
+      "group": 6,
       "size": 3
     },
     {
       "id": "kottke.org",
-      "group": 5,
+      "group": 6,
       "size": 2
     },
     {
@@ -1972,12 +2082,12 @@
     },
     {
       "id": "highclearing.com",
-      "group": 1,
+      "group": 5,
       "size": 2
     },
     {
       "id": "esr.ibiblio.org",
-      "group": 2,
+      "group": 5,
       "size": 2
     },
     {
@@ -2003,6 +2113,26 @@
     {
       "id": "geekpress.com",
       "group": 2,
+      "size": 2
+    },
+    {
+      "id": "balloon-juice.com",
+      "group": 5,
+      "size": 2
+    },
+    {
+      "id": "nicedoggie.net",
+      "group": 2,
+      "size": 2
+    },
+    {
+      "id": "interglobal.org/weblog",
+      "group": 2,
+      "size": 2
+    },
+    {
+      "id": "xnerg.blogspot.com",
+      "group": 5,
       "size": 2
     },
     {
@@ -2036,6 +2166,11 @@
       "size": 3
     },
     {
+      "id": "forexlive.com",
+      "group": 1,
+      "size": 2
+    },
+    {
       "id": "mishtalk.com",
       "group": 1,
       "size": 2
@@ -2067,37 +2202,37 @@
     },
     {
       "id": "ecoastarchreview.blogspot.com",
-      "group": 5,
+      "group": 6,
       "size": 2
     },
     {
       "id": "lifewithoutbuildings.net",
-      "group": 5,
+      "group": 6,
       "size": 2
     },
     {
       "id": "neveryetmelted.com",
-      "group": 5,
+      "group": 6,
       "size": 2
     },
     {
       "id": "architechnophilia.blogspot.com",
-      "group": 5,
+      "group": 6,
       "size": 2
     },
     {
       "id": "archidose.blogspot.com",
-      "group": 5,
+      "group": 6,
       "size": 4
     },
     {
       "id": "architecturetylerdurden.blogspot.com",
-      "group": 5,
+      "group": 6,
       "size": 1
     },
     {
       "id": "eddriscoll.com/weblog.php",
-      "group": 5,
+      "group": 6,
       "size": 2
     },
     {
@@ -2107,28 +2242,38 @@
     },
     {
       "id": "remiss63.blogspot.com",
-      "group": 5,
+      "group": 6,
       "size": 2
     },
     {
       "id": "architecturesketches.blogspot.com",
-      "group": 5,
+      "group": 6,
       "size": 2
     },
     {
       "id": "architectureyp.blogspot.com",
-      "group": 5,
+      "group": 6,
       "size": 1
     },
     {
       "id": "no-pasaran.blogspot.com",
-      "group": 0,
+      "group": 6,
       "size": 3
     },
     {
       "id": "lawyersgunsmoneyblog.com",
-      "group": 6,
-      "size": 3
+      "group": 5,
+      "size": 4
+    },
+    {
+      "id": "flowingdata.com",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "statschat.org.nz",
+      "group": 1,
+      "size": 2
     },
     {
       "id": "fark.com",
@@ -2167,7 +2312,7 @@
     },
     {
       "id": "billroggio.com",
-      "group": 0,
+      "group": 2,
       "size": 2
     },
     {
@@ -2183,7 +2328,7 @@
     {
       "id": "moonbattery.com",
       "group": 0,
-      "size": 2
+      "size": 3
     },
     {
       "id": "marksteyn.com",
@@ -2206,13 +2351,23 @@
       "size": 2
     },
     {
+      "id": "peekinthewell.net/blog",
+      "group": 2,
+      "size": 2
+    },
+    {
+      "id": "thepiratescove.us",
+      "group": 2,
+      "size": 2
+    },
+    {
       "id": "spectator.org",
       "group": 0,
       "size": 2
     },
     {
       "id": "dailywire.com",
-      "group": 0,
+      "group": 5,
       "size": 2
     },
     {
@@ -2221,23 +2376,73 @@
       "size": 2
     },
     {
+      "id": "unherd.com",
+      "group": 5,
+      "size": 2
+    },
+    {
+      "id": "desertsun.co.uk/blog",
+      "group": 5,
+      "size": 2
+    },
+    {
+      "id": "adamsmith.org/blog",
+      "group": 5,
+      "size": 2
+    },
+    {
       "id": "archdaily.com",
+      "group": 6,
+      "size": 2
+    },
+    {
+      "id": "bloodandtreasure.typepad.com",
+      "group": 5,
+      "size": 2
+    },
+    {
+      "id": "coreyrobin.com",
       "group": 5,
       "size": 2
     },
     {
       "id": "talkingpointsmemo.com",
-      "group": 1,
+      "group": 5,
       "size": 2
     },
     {
-      "id": "http://www.enlightenmenteconomics.com/blog",
-      "group": 1,
+      "id": "motherjones.com/kevin-drum",
+      "group": 5,
       "size": 2
     },
     {
-      "id": "http://marcfbellemare.com/wordpress",
-      "group": 1,
+      "id": "sluggerotoole.com",
+      "group": 5,
+      "size": 2
+    },
+    {
+      "id": "scienceblogs.com/principles",
+      "group": 5,
+      "size": 2
+    },
+    {
+      "id": "",
+      "group": 7,
+      "size": 0
+    },
+    {
+      "id": "motls.blogspot.com",
+      "group": 3,
+      "size": 2
+    },
+    {
+      "id": "resonaances.blogspot.com",
+      "group": 3,
+      "size": 2
+    },
+    {
+      "id": "mainlymacro.blogspot.co.uk",
+      "group": 5,
       "size": 2
     }
   ],
@@ -2485,6 +2690,11 @@
     {
       "source": "scottaaronson.com/blog",
       "target": "dabacon.org/pontiff",
+      "value": 1
+    },
+    {
+      "source": "scottaaronson.com/blog",
+      "target": "gowers.wordpress.com",
       "value": 1
     },
     {
@@ -3254,12 +3464,27 @@
     },
     {
       "source": "econbrowser.com",
+      "target": "bankunderground.co.uk",
+      "value": 1
+    },
+    {
+      "source": "econbrowser.com",
       "target": "blogs.cfr.org/setser",
       "value": 1
     },
     {
       "source": "econbrowser.com",
+      "target": "bruegel.org/blog",
+      "value": 1
+    },
+    {
+      "source": "econbrowser.com",
       "target": "blogs.wellesley.edu/jjoyce",
+      "value": 1
+    },
+    {
+      "source": "econbrowser.com",
+      "target": "capitalspectator.com",
       "value": 1
     },
     {
@@ -3285,6 +3510,11 @@
     {
       "source": "econbrowser.com",
       "target": "digitopoly.org",
+      "value": 1
+    },
+    {
+      "source": "econbrowser.com",
+      "target": "econacademics.org",
       "value": 1
     },
     {
@@ -3599,6 +3829,11 @@
     },
     {
       "source": "economistsview.typepad.com",
+      "target": "afinetheorem.wordpress.com",
+      "value": 1
+    },
+    {
+      "source": "economistsview.typepad.com",
       "target": "carolabinder.blogspot.com",
       "value": 1
     },
@@ -3614,12 +3849,32 @@
     },
     {
       "source": "economistsview.typepad.com",
+      "target": "marcfbellemare.com/wordpress",
+      "value": 1
+    },
+    {
+      "source": "economistsview.typepad.com",
       "target": "owenzidar.wordpress.com",
       "value": 1
     },
     {
       "source": "economistsview.typepad.com",
       "target": "rjwaldmann.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "economistsview.typepad.com",
+      "target": "rogerfarmer.com/rogerfarmerblog",
+      "value": 1
+    },
+    {
+      "source": "economistsview.typepad.com",
+      "target": "stochastictrend.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "economistsview.typepad.com",
+      "target": "bigpicture.typepad.com",
       "value": 1
     },
     {
@@ -3770,6 +4025,16 @@
     {
       "source": "statmodeling.stat.columbia.edu",
       "target": "junkcharts.typepad.com/numbersruleyourworld",
+      "value": 1
+    },
+    {
+      "source": "statmodeling.stat.columbia.edu",
+      "target": "r-bloggers.com",
+      "value": 1
+    },
+    {
+      "source": "statmodeling.stat.columbia.edu",
+      "target": "johndcook.com/blog",
       "value": 1
     },
     {
@@ -4375,6 +4640,26 @@
     {
       "source": "thebigquestions.com/blog",
       "target": "math.columbia.edu/~woit/wordpress",
+      "value": 1
+    },
+    {
+      "source": "thebigquestions.com/blog",
+      "target": "neverendingbooks.org",
+      "value": 1
+    },
+    {
+      "source": "thebigquestions.com/blog",
+      "target": "sbseminar.wordpress.com",
+      "value": 1
+    },
+    {
+      "source": "thebigquestions.com/blog",
+      "target": "golem.ph.utexas.edu/category",
+      "value": 1
+    },
+    {
+      "source": "thebigquestions.com/blog",
+      "target": "golem.ph.utexas.edu/~distler/blog",
       "value": 1
     },
     {
@@ -5005,6 +5290,11 @@
     {
       "source": "chicagoboyz.net",
       "target": "overlawyered.com",
+      "value": 1
+    },
+    {
+      "source": "chicagoboyz.net",
+      "target": "kenanmalik.wordpress.com",
       "value": 1
     },
     {
@@ -5799,7 +6089,27 @@
     },
     {
       "source": "noahpinionblog.blogspot.com",
+      "target": "enlightenmenteconomics.com/blog",
+      "value": 1
+    },
+    {
+      "source": "noahpinionblog.blogspot.com",
+      "target": "econjeff.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "noahpinionblog.blogspot.com",
+      "target": "longandvariable.wordpress.com",
+      "value": 1
+    },
+    {
+      "source": "noahpinionblog.blogspot.com",
       "target": "calculatedriskblog.com",
+      "value": 1
+    },
+    {
+      "source": "noahpinionblog.blogspot.com",
+      "target": "freakonometrics.hypotheses.org",
       "value": 1
     },
     {
@@ -5884,7 +6194,32 @@
     },
     {
       "source": "crookedtimber.org",
+      "target": "bloodandtreasure.typepad.com",
+      "value": 1
+    },
+    {
+      "source": "crookedtimber.org",
+      "target": "coreyrobin.com",
+      "value": 1
+    },
+    {
+      "source": "crookedtimber.org",
       "target": "talkingpointsmemo.com",
+      "value": 1
+    },
+    {
+      "source": "crookedtimber.org",
+      "target": "motherjones.com/kevin-drum",
+      "value": 1
+    },
+    {
+      "source": "crookedtimber.org",
+      "target": "sluggerotoole.com",
+      "value": 1
+    },
+    {
+      "source": "crookedtimber.org",
+      "target": "scienceblogs.com/principles",
       "value": 1
     },
     {
@@ -6009,12 +6344,172 @@
     },
     {
       "source": "stumblingandmumbling.typepad.com",
-      "target": "http://www.enlightenmenteconomics.com/blog",
+      "target": "marginalrevolution.com",
       "value": 1
     },
     {
       "source": "stumblingandmumbling.typepad.com",
-      "target": "http://marcfbellemare.com/wordpress",
+      "target": "cafehayek.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "econbrowser.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "econlog.econlib.org",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "economistsview.typepad.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "gregmankiw.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "statmodeling.stat.columbia.edu",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "voxeu.org",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "daviddfriedman.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "timworstall.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "bleedingheartlibertarians.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "crookedtimber.org",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "braddelong.substack.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "bankunderground.co.uk",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "bruegel.org/blog",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "fistfulofeuros.net",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "worthwhile.typepad.com/worthwhile_canadian_initi",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "afinetheorem.wordpress.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "marcfbellemare.com/wordpress",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "rogerfarmer.com/rogerfarmerblog",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "bigpicture.typepad.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "notesonliberty.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "kenanmalik.wordpress.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "samizdata.net/blog",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "enlightenmenteconomics.com/blog",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "longandvariable.wordpress.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "rodrik.typepad.com/dani_rodriks_weblog",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "unherd.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "desertsun.co.uk/blog",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "adamsmith.org/blog",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "bloodandtreasure.typepad.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "coreyrobin.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "sluggerotoole.com",
+      "value": 1
+    },
+    {
+      "source": "stumblingandmumbling.typepad.com",
+      "target": "mainlymacro.blogspot.co.uk",
       "value": 1
     },
     {
@@ -6093,6 +6588,36 @@
       "value": 1
     },
     {
+      "source": "christophe-barraud.com/en/blog",
+      "target": "econbrowser.com",
+      "value": 1
+    },
+    {
+      "source": "christophe-barraud.com/en/blog",
+      "target": "capitalspectator.com",
+      "value": 1
+    },
+    {
+      "source": "christophe-barraud.com/en/blog",
+      "target": "zerohedge.com",
+      "value": 1
+    },
+    {
+      "source": "christophe-barraud.com/en/blog",
+      "target": "nalert.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "christophe-barraud.com/en/blog",
+      "target": "calculatedriskblog.com",
+      "value": 1
+    },
+    {
+      "source": "christophe-barraud.com/en/blog",
+      "target": "forexlive.com",
+      "value": 1
+    },
+    {
       "source": "nakedcapitalism.com",
       "target": "econbrowser.com",
       "value": 1
@@ -6149,12 +6674,92 @@
     },
     {
       "source": "davegiles.blogspot.com",
-      "target": "http://www.enlightenmenteconomics.com/blog",
+      "target": "marginalrevolution.com",
       "value": 1
     },
     {
       "source": "davegiles.blogspot.com",
-      "target": "http://marcfbellemare.com/wordpress",
+      "target": "economistsview.typepad.com",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "statmodeling.stat.columbia.edu",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "johnhcochrane.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "econacademics.org",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "fxdiebold.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "worthwhile.typepad.com/worthwhile_canadian_initi",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "andolfatto.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "marcfbellemare.com/wordpress",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "rogerfarmer.com/rogerfarmerblog",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "stochastictrend.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "r-bloggers.com",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "johndcook.com/blog",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "enlightenmenteconomics.com/blog",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "econjeff.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "freakonometrics.hypotheses.org",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "flowingdata.com",
+      "value": 1
+    },
+    {
+      "source": "davegiles.blogspot.com",
+      "target": "statschat.org.nz",
       "value": 1
     },
     {
@@ -6273,6 +6878,16 @@
       "value": 1
     },
     {
+      "source": "blog.jessriedel.com",
+      "target": "motls.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "blog.jessriedel.com",
+      "target": "resonaances.blogspot.com",
+      "value": 1
+    },
+    {
       "source": "notesonliberty.com",
       "target": "marginalrevolution.com",
       "value": 1
@@ -6383,6 +6998,11 @@
       "value": 1
     },
     {
+      "source": "notesonliberty.com",
+      "target": "mainlymacro.blogspot.co.uk",
+      "value": 1
+    },
+    {
       "source": "bradleyahansen.blogspot.com",
       "target": "macromarketmusings.blogspot.com",
       "value": 1
@@ -6395,6 +7015,11 @@
     {
       "source": "bradleyahansen.blogspot.com",
       "target": "pseudoerasmus.com",
+      "value": 1
+    },
+    {
+      "source": "bradleyahansen.blogspot.com",
+      "target": "rodrik.typepad.com/dani_rodriks_weblog",
       "value": 1
     },
     {
@@ -6530,6 +7155,66 @@
     {
       "source": "blog.heartland.org",
       "target": "nationalreview.com/corner",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "scottaaronson.com/blog",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "terrytao.wordpress.com",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "gowers.wordpress.com",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "backreaction.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "neverendingbooks.org",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "sbseminar.wordpress.com",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "golem.ph.utexas.edu/category",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "golem.ph.utexas.edu/~distler/blog",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "mathbabe.org",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "scienceblogs.com/principles",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "motls.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "math.columbia.edu/~woit/wordpress",
+      "target": "resonaances.blogspot.com",
       "value": 1
     },
     {
@@ -6983,6 +7668,26 @@
       "value": 1
     },
     {
+      "source": "instapundit.com",
+      "target": "balloon-juice.com",
+      "value": 1
+    },
+    {
+      "source": "instapundit.com",
+      "target": "nicedoggie.net",
+      "value": 1
+    },
+    {
+      "source": "instapundit.com",
+      "target": "interglobal.org/weblog",
+      "value": 1
+    },
+    {
+      "source": "instapundit.com",
+      "target": "xnerg.blogspot.com",
+      "value": 1
+    },
+    {
       "source": "manhattancontrarian.com",
       "target": "marginalrevolution.com",
       "value": 1
@@ -7210,6 +7915,11 @@
     {
       "source": "zerohedge.com",
       "target": "mises.org",
+      "value": 1
+    },
+    {
+      "source": "zerohedge.com",
+      "target": "forexlive.com",
       "value": 1
     },
     {
@@ -7555,6 +8265,16 @@
     {
       "source": "graphpaperdiaries.com",
       "target": "junkcharts.typepad.com/numbersruleyourworld",
+      "value": 1
+    },
+    {
+      "source": "graphpaperdiaries.com",
+      "target": "flowingdata.com",
+      "value": 1
+    },
+    {
+      "source": "graphpaperdiaries.com",
+      "target": "statschat.org.nz",
       "value": 1
     },
     {
@@ -8504,6 +9224,16 @@
     },
     {
       "source": "maggiesfarm.anotherdotcom.com",
+      "target": "peekinthewell.net/blog",
+      "value": 1
+    },
+    {
+      "source": "maggiesfarm.anotherdotcom.com",
+      "target": "thepiratescove.us",
+      "value": 1
+    },
+    {
+      "source": "maggiesfarm.anotherdotcom.com",
       "target": "spectator.org",
       "value": 1
     },
@@ -8549,6 +9279,21 @@
     },
     {
       "source": "rantburg.com",
+      "target": "buzzmachine.com",
+      "value": 1
+    },
+    {
+      "source": "rantburg.com",
+      "target": "dailypundit.com",
+      "value": 1
+    },
+    {
+      "source": "rantburg.com",
+      "target": "davidwarrenonline.com",
+      "value": 1
+    },
+    {
+      "source": "rantburg.com",
       "target": "hughhewitt.com",
       "value": 1
     },
@@ -8559,7 +9304,22 @@
     },
     {
       "source": "rantburg.com",
+      "target": "samizdata.net/blog",
+      "value": 1
+    },
+    {
+      "source": "rantburg.com",
+      "target": "senseofevents.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "rantburg.com",
       "target": "blogs.news.com.au/dailytelegraph/timblair",
+      "value": 1
+    },
+    {
+      "source": "rantburg.com",
+      "target": "rightwingnews.com",
       "value": 1
     },
     {
@@ -8574,12 +9334,27 @@
     },
     {
       "source": "rantburg.com",
+      "target": "nicedoggie.net",
+      "value": 1
+    },
+    {
+      "source": "rantburg.com",
+      "target": "interglobal.org/weblog",
+      "value": 1
+    },
+    {
+      "source": "rantburg.com",
       "target": "no-pasaran.blogspot.com",
       "value": 1
     },
     {
       "source": "rantburg.com",
       "target": "billroggio.com",
+      "value": 1
+    },
+    {
+      "source": "rantburg.com",
+      "target": "peekinthewell.net/blog",
       "value": 1
     },
     {
@@ -8678,6 +9453,21 @@
       "value": 1
     },
     {
+      "source": "samizdata.net/blog",
+      "target": "unherd.com",
+      "value": 1
+    },
+    {
+      "source": "samizdata.net/blog",
+      "target": "desertsun.co.uk/blog",
+      "value": 1
+    },
+    {
+      "source": "samizdata.net/blog",
+      "target": "adamsmith.org/blog",
+      "value": 1
+    },
+    {
       "source": "smalldeadanimals.com",
       "target": "thefederalist.com",
       "value": 1
@@ -8715,6 +9505,26 @@
     {
       "source": "smalldeadanimals.com",
       "target": "babylonbee.com/#",
+      "value": 1
+    },
+    {
+      "source": "talkleft.com",
+      "target": "balloon-juice.com",
+      "value": 1
+    },
+    {
+      "source": "talkleft.com",
+      "target": "xnerg.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "talkleft.com",
+      "target": "lawyersgunsmoneyblog.com",
+      "value": 1
+    },
+    {
+      "source": "talkleft.com",
+      "target": "motherjones.com/kevin-drum",
       "value": 1
     },
     {
@@ -8825,6 +9635,36 @@
     {
       "source": "transterrestrial.com",
       "target": "drudgereport.com",
+      "value": 1
+    },
+    {
+      "source": "rightwingnews.com",
+      "target": "instapundit.com",
+      "value": 1
+    },
+    {
+      "source": "rightwingnews.com",
+      "target": "directorblue.blogspot.com",
+      "value": 1
+    },
+    {
+      "source": "rightwingnews.com",
+      "target": "likelihoodofconfusion.com",
+      "value": 1
+    },
+    {
+      "source": "rightwingnews.com",
+      "target": "theothermccain.com",
+      "value": 1
+    },
+    {
+      "source": "rightwingnews.com",
+      "target": "moonbattery.com",
+      "value": 1
+    },
+    {
+      "source": "rightwingnews.com",
+      "target": "thepiratescove.us",
       "value": 1
     },
     {
