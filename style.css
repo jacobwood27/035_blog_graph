@@ -1,0 +1,66 @@
+text {
+    font: 24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-anchor: middle;
+    pointer-events: none;
+}
+
+.tooltip {
+    position: absolute;
+    background: cornsilk;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 2px 4px;
+}
+.tooltip:hover {
+    background-color: #2e943c;
+    color: white;
+}
+
+svg .grey {
+    fill: rgb(114, 132, 56);
+    stroke: rgb(114, 132, 56);
+    stroke-width: 1;
+}
+
+.node:hover circle {
+    fill: orange;
+}
+
+html {
+    overflow: hidden;
+    width: fit-content;
+    display: inline-block;
+}
+
+
+body {
+    overflow: hidden;
+    width: fit-content;
+    display: inline-block;
+}
+
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+    background-color: cornsilk;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: left;
+    font-size: 15px;
+    z-index: 5;
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .active, .collapsible:hover {
+    background-color: #ccc;
+  }
+  
+  /* Style the collapsible content. Note: hidden by default */
+  .content {
+    padding: 18px;
+    display: none;
+    overflow: hidden;
+    width: fit-content;
+    background-color: #f1f1f1;
+  }

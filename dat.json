@@ -2,3137 +2,5645 @@
   "nodes": [
     {
       "id": "astralcodexten.substack.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 15
     },
     {
       "id": "applieddivinitystudies.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "nintil.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "westhunt.wordpress.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 5
     },
     {
       "id": "putanumonit.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "lesswrong.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 5
     },
     {
       "id": "marginalrevolution.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 31
     },
     {
       "id": "razib.substack.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "scottaaronson.com/blog",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 7
     },
     {
       "id": "infoproc.blogspot.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "zeynep.substack.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "thezvi.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "bayesianinvestor.com/blog",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "scholars-stage.blogspot.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "blogs.sciencemag.org/pipeline",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "strangeloopcanon.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "slimemoldtimemold.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "freddiedeboer.substack.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "cold-takes.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "goodoptics.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 1
     },
     {
       "id": "fantasticanachronism.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 1
     },
     {
       "id": "arnoldkling.com/blog",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 9
     },
     {
       "id": "cafehayek.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 16
     },
     {
       "id": "mungowitzend.blogspot.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 7
     },
     {
       "id": "blog.supplysideliberal.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 5
     },
     {
       "id": "conversableeconomist.blogspot.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 5
     },
     {
       "id": "austrianeconomists.typepad.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "econbrowser.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 11
     },
     {
       "id": "econlog.econlib.org",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 18
     },
     {
       "id": "economistsview.typepad.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 14
     },
     {
       "id": "gregmankiw.blogspot.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 17
     },
     {
       "id": "overcomingbias.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 13
     },
     {
       "id": "statmodeling.stat.columbia.edu",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 10
     },
     {
       "id": "johnhcochrane.blogspot.com",
-      "group": 1,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 7
     },
     {
       "id": "themoneyillusion.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 9
     },
     {
       "id": "voxeu.org",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 6
     },
     {
       "id": "slowboring.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "noahpinion.substack.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "theliberalpatriot.substack.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "gilkalai.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "lucatrevisan.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "johncarlosbaez.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "realclimate.org",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 4
     },
     {
       "id": "rjlipton.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "terrytao.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 4
     },
     {
       "id": "dabacon.org/pontiff",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "gowers.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "backreaction.blogspot.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "quantumfrontiers.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "mycqstate.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "preposterousuniverse.com/blog",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "windowsontheory.org",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "srconstantin.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 5
     },
     {
       "id": "theunitofcaring.tumblr.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "rootsofprogress.org",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "ramismovassagh.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "acesounderglass.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "medium.com/ai-control",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "blog.jaibot.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "acritch.com/blog",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "benjaminrosshoffman.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "meltingasphalt.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "meteuphoric.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "mindingourway.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 4
     },
     {
       "id": "mindsarentmagic.org",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "samzdat.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "rationalconspiracy.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "unstableontology.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "sideways-view.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "handsandcities.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "gnxp.com",
-      "group": 2,
+      "groups": [
+        0,
+        0,
+        3
+      ],
       "size": 3
     },
     {
       "id": "alt-m.org",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 6
     },
     {
       "id": "blog.independent.org",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "thebigquestions.com/blog",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 5
     },
     {
       "id": "aei.org/blog/carpe-diem",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "cato.org/blog",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "chicagoboyz.net",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 13
     },
     {
       "id": "coyoteblog.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 6
     },
     {
       "id": "econtalk.org",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "fee.org",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "consultingbyrpm.com/blog",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "reason.com/blog",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 6
     },
     {
       "id": "daviddfriedman.blogspot.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 6
     },
     {
       "id": "knowledgeproblem.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 9
     },
     {
       "id": "newmarksdoor.typepad.com/mainblog",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 5
     },
     {
       "id": "thesportseconomist.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "thinkmarkets.wordpress.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 6
     },
     {
       "id": "timworstall.com",
-      "group": 0,
+      "groups": [
+        0,
+        1,
+        1
+      ],
       "size": 4
     },
     {
       "id": "reason.com/volokh",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 6
     },
     {
       "id": "bleedingheartlibertarians.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "coordinationproblem.org",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "econlib.org",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "reason.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "noahpinionblog.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 6
     },
     {
       "id": "offsettingbehaviour.blogspot.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "popehat.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "samizdata.net",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "aier.org/research/beyond-the-numbers",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "bhl.typepad.com/bleeding-heart-libertaria",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "bob-mcteer-blog.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "catallaxyfiles.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "divisionoflabour.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "hnn.us/blogs/4.html",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "organizationsandmarkets.wordpress.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "www-rcf.usc.edu/~pgordon/blog",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 5
     },
     {
       "id": "psdblog.worldbank.org/psdblog",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "cobdencentre.org/blog",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "ewot.typepad.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "thefilter.blogs.com/thefilter",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "truthonthemarket.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "macromarketmusings.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 7
     },
     {
       "id": "timiacono.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "ritholtz.com/blog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "calculatedrisk.blogspot.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 5
     },
     {
       "id": "dimensional.com/famafrench",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "theglitteringeye.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "economicsone.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "keithhennessey.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "oilprice.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 9
     },
     {
       "id": "politicalcalculations.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "streetwiseprofessor.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "outsidethebeltway.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "crookedtimber.org",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 11
     },
     {
       "id": "brookings.edu/blogs/ben-bernanke",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "braddelong.substack.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 9
     },
     {
       "id": "dolanecon.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "economist.com/blogs/freeexchange",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "uneasymoney.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 5
     },
     {
       "id": "everydayecon.wordpress.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "mpettis.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "krugman.blogs.nytimes.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 6
     },
     {
       "id": "institutional-economics.com/index.php",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "caseymulligan.blogspot.com",
-      "group": 1,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "newmonetarism.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "businessbookmall.com/Economics%20Internet%20Library.htm",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "rtable.net/index/rt/economics/recent",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "env-econ.net",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "blog.kir.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "emirateseconomist.blogspot.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "mises.org/blog",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "stumblingandmumbling.typepad.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 9
     },
     {
       "id": "businesspundit.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "worthwhile.typepad.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 9
     },
     {
       "id": "angrybearblog.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 6
     },
     {
       "id": "bankunderground.co.uk",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "baselinescenario.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "becker-posner-blog.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "blogs.cfr.org/setser",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "bruegel.org/blog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "blogs.wellesley.edu/jjoyce",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "capitalgainsandgames.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "capitalspectator.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 2
     },
     {
       "id": "aei-ideas.org/channel/carpe-diem",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "christophe-barraud.com/en/blog",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 4
     },
     {
       "id": "austrianeconomists.typepad.com/weblog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "creditwritedowns.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        5
+      ],
       "size": 3
     },
     {
       "id": "rodrik.typepad.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "digitopoly.org",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "econacademics.org",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "economicpopulist.org",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 3
     },
     {
       "id": "economistmom.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "economix.blogs.nytimes.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "econospeak.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "fatasmihov.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "blogs.reuters.com/felix-salmon",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "fistfulofeuros.net",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 4
     },
     {
       "id": "fxdiebold.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "freakonomics.com/blog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "houseofdebt.org",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "blog-imfdirect.imf.org",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "interfluidity.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "libertystreeteconomics.newyorkfed.org",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "macroblog.typepad.com/macroblog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "mainlymacro.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "thedailybeast.com/voxbox/asymmetrical-information.html",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "nakedcapitalism.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 7
     },
     {
       "id": "rogerfarmerblog.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "nextnewdeal.net/rortybomb",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "blogs.wsj.com/economics",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "energypolicyblog.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "triplecrisis.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 2
     },
     {
       "id": "creditslips.org/creditslips",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 2
     },
     {
       "id": "danieldrezner.com/blog",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 5
     },
     {
       "id": "davegiles.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "pensiontsunami.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "jpkoning.blogspot.ca",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "afinetheorem.wordpress.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "carolabinder.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "ftalphaville.ft.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "johnquiggin.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "andolfatto.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "marcfbellemare.com/wordpress",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "owenzidar.wordpress.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "samefacts.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "rjwaldmann.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "rogerfarmer.com/rogerfarmerblog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "stochastictrend.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "bigpicture.typepad.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "irisheconomy.ie",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "theoryclass.wordpress.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "thomaspalley.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "reflectivedisequilibrium.blogspot.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "rationaloptimist.com/blog",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "aldaily.com",
-      "group": 2,
+      "groups": [
+        5,
+        0,
+        1
+      ],
       "size": 7
     },
     {
       "id": "blog.colinmarshall.org",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "metamodern.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        3
+      ],
       "size": 2
     },
     {
       "id": "blogs.discovermagazine.com/gnxp",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "gizmodo.com/io9",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        3
+      ],
       "size": 3
     },
     {
       "id": "blog.jessriedel.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "bloomberg.com/blogs/view/megan-mcardle",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "blogs.forbes.com/modeledbehavior",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "rationalaltruist.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "retractionwatch.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "rajivsethi.substack.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "junkcharts.typepad.com/numbersruleyourworld",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "r-bloggers.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "johndcook.com/blog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "cato.org",
-      "group": 6,
+      "groups": [
+        4,
+        0,
+        5
+      ],
       "size": 5
     },
     {
       "id": "willwilkinson.net",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "electionbettingodds.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "bloggingheads.tv",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "uneconomical.wordpress.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "marketmonetarist.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "thefaintofheart.wordpress.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "notesonliberty.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "slate.com/blogs/moneybox.html",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "nothingismere.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "satvikberi.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "benkuhn.net",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "conceptspacecartography.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "news.ycombinator.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "aiimpacts.org/blog",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "lukemuehlhauser.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "givinggladly.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "pedestrianobservations.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "blog.acton.org",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "cei.org/blog",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "economicpolicyjournal.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "bradleyahansen.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 1
     },
     {
       "id": "thefederalist.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 8
     },
     {
       "id": "thegatewaypundit.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "blog.heartland.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 1
     },
     {
       "id": "libertylawsite.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "marketurbanism.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "mises.org/power-market",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "pileusblog.wordpress.com",
-      "group": 3,
+      "groups": [
+        3,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "volokh.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 9
     },
     {
       "id": "math.columbia.edu/~woit/wordpress",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "concretenonsense.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "deltaepsilons.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "godplaysdice.blogspot.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "homotopical.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "neverendingbooks.org",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "rigtriv.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "sbseminar.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "golem.ph.utexas.edu/category",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "golem.ph.utexas.edu/~distler/blog",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "ace.mu.nu",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 7
     },
     {
       "id": "amgreatness.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "americanthinker.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 9
     },
     {
       "id": "breitbart.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "cato-at-liberty.org",
-      "group": 0,
+      "groups": [
+        5,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "commentarymagazine.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "hotair.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 10
     },
     {
       "id": "instapundit.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 18
     },
     {
       "id": "manhattancontrarian.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "powerlineblog.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 12
     },
     {
       "id": "ricochet.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "zerohedge.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 7
     },
     {
       "id": "avoyagetoarcturus.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "anglosphere.com/weblog",
-      "group": 4,
+      "groups": [
+        0,
+        0,
+        3
+      ],
       "size": 1
     },
     {
       "id": "althouse.blogspot.com",
-      "group": 5,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 5
     },
     {
       "id": "acsh.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "americandigest.org",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "architectureandmorality.blogspot.com",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 3
     },
     {
       "id": "assistantvillageidiot.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "automaticballpoint.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        7
+      ],
       "size": 1
     },
     {
       "id": "babylonbee.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "balkin.blogspot.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 3
     },
     {
       "id": "bayourenaissanceman.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "pjmedia.com/richardfernandez",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "fallbackbelmont.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "bldgblog.blogspot.com",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 2
     },
     {
       "id": "boingboing.net",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "bookwormroom.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "buzzmachine.com",
-      "group": 5,
+      "groups": [
+        3,
+        0,
+        4
+      ],
       "size": 4
     },
     {
       "id": "captainsjournal.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "claytonecramer.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "judithcurry.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "peterturchin.com/blog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "coldspringshops.blogspot.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "conservativehistory.blogspot.com",
-      "group": 4,
+      "groups": [
+        0,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "thedailybeast.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "dailypundit.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 8
     },
     {
       "id": "danieljmitchell.wordpress.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "datechguyblog.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "davidthompson.typepad.com/davidthompson",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "davidwarrenonline.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 5
     },
     {
       "id": "dealbreaker.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "thediplomad.blogspot.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "thediplomat.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        7
+      ],
       "size": 2
     },
     {
       "id": "discriminations.us",
-      "group": 5,
+      "groups": [
+        5,
+        0,
+        4
+      ],
       "size": 3
     },
     {
       "id": "donsurber.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "directorblue.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 5
     },
     {
       "id": "elderofziyon.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "englishrussia.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "eureferendum.com",
-      "group": 4,
+      "groups": [
+        0,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "fivethirtyeight.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "futureofcapitalism.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "gaypatriot.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "greenwald.substack.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 2
     },
     {
       "id": "globalguerrillas.typepad.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        7
+      ],
       "size": 2
     },
     {
       "id": "graphpaperdiaries.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "grimbeorn.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "heterodoxacademy.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "thehistoryblog.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "hnn.us",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "reason.com/hitandrun",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "hoover.org/publications/defining-ideas",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "hughhewitt.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 6
     },
     {
       "id": "idontknowbut.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "informationdissemination.net",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        7
+      ],
       "size": 2
     },
     {
       "id": "intellectualtakeout.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "israellycool.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "issuesinsights.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "jewishworldreview.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "jihadwatch.org",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "joannejacobs.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "joelkotkin.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "joannenova.com.au",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "junkscience.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "justoneminute.typepad.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 4
     },
     {
       "id": "kausfiles.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "kevinmd.com/blog",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "lawfareblog.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "leadandgold.blogspot.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "legalinsurrection.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 7
     },
     {
       "id": "likelihoodofconfusion.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "lileks.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "longwarjournal.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "maggiesfarm.anotherdotcom.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 7
     },
     {
       "id": "memeorandum.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 7
     },
     {
       "id": "nationalreview.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "thenewneo.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "newgeography.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "nalert.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "nextbigfuture.com",
-      "group": 4,
+      "groups": [
+        0,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "ngo-monitor.org/index.php",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "normblog.typepad.com/normblog",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "armsandthelaw.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 1
     },
     {
       "id": "offshorebalancer.wordpress.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        7
+      ],
       "size": 2
     },
     {
       "id": "openmarket.org",
-      "group": 4,
+      "groups": [
+        0,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "originalismblog.typepad.com/the-originalism-blog",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "theothermccain.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 5
     },
     {
       "id": "overlawyered.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "kenanmalik.wordpress.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "patterico.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "thepeoplescube.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "photoncourier.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "pajamasmedia.com",
-      "group": 7,
+      "groups": [
+        0,
+        0,
+        6
+      ],
       "size": 4
     },
     {
       "id": "popehat.substack.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "professorbainbridge.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "pseudoerasmus.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "quillette.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "rantburg.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "realclearmarkets.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "realclearpolitics.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 7
     },
     {
       "id": "realclearworld.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "redstate.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 9
     },
     {
       "id": "samizdata.net/blog",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 8
     },
     {
       "id": "blog.dilbert.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "senseofevents.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "seraphicpress.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "pagunblog.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "shorpy.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "blog.simplejustice.us",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "smalldeadanimals.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "spiked-online.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "stuartschneiderman.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "sultanknish.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "talkleft.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 4
     },
     {
       "id": "taxprof.typepad.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "the-pipeline.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "townhall.com/columnists/thomassowell",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "blogs.news.com.au/dailytelegraph/timblair",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "transterrestrial.com",
-      "group": 4,
+      "groups": [
+        0,
+        0,
+        3
+      ],
       "size": 3
     },
     {
       "id": "thetruthaboutguns.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "vpostrel.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "vodkapundit.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 4
     },
     {
       "id": "voluntaryxchange.typepad.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "wattsupwiththat.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "espressopundit.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "qando.net",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "meganmcardle.theatlantic.com",
-      "group": 3,
+      "groups": [
+        3,
+        1,
+        3
+      ],
       "size": 2
     },
     {
       "id": "mjperry.blogspot.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "climate-skeptic.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "factcheck.org",
-      "group": 3,
+      "groups": [
+        4,
+        2,
+        0
+      ],
       "size": 2
     },
     {
       "id": "gizmodo.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "washingtonmonthly.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 3
     },
     {
       "id": "theagitator.com",
-      "group": 3,
+      "groups": [
+        3,
+        1,
+        3
+      ],
       "size": 2
     },
     {
       "id": "antiwar.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 2
     },
     {
       "id": "masterresource.org",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "timworstall.typepad.com/timworstall",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 2
     },
     {
       "id": "rightwingnews.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 6
     },
     {
       "id": "xkcd.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 3
     },
     {
       "id": "orderstatistic.wordpress.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "enlightenmenteconomics.com/blog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 4
     },
     {
       "id": "econjeff.blogspot.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "timharford.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "longandvariable.wordpress.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "calculatedriskblog.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 4
     },
     {
       "id": "freakonometrics.hypotheses.org",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "vserver1.cscs.lsa.umich.edu/~crshalizi/weblog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "mathbabe.org",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 3
     },
     {
       "id": "rodrik.typepad.com/dani_rodriks_weblog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "nofuturepast.wordpress.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "amlibpub.blogspot.com",
-      "group": 6,
+      "groups": [
+        6,
+        0,
+        5
+      ],
       "size": 1
     },
     {
       "id": "dailysignal.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "foxnews.com",
-      "group": 4,
+      "groups": [
+        0,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "frontpagemag.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "hollywoodintoto.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "lucianne.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "steynonline.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 5
     },
     {
       "id": "notrickszone.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "nationalreview.com/corner",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "newsmax.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "classicalvalues.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "coldfury.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "countrystore.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "daybydaycartoon.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "victorhanson.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "imao.us",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "lileks.com/bleats",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 4
     },
     {
       "id": "michellemalkin.com",
-      "group": 6,
+      "groups": [
+        6,
+        0,
+        5
+      ],
       "size": 4
     },
     {
       "id": "vikingpundit.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "mwilliams.info",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "sepp.org",
-      "group": 6,
+      "groups": [
+        6,
+        0,
+        5
+      ],
       "size": 2
     },
     {
       "id": "mises.org",
-      "group": 6,
+      "groups": [
+        6,
+        0,
+        5
+      ],
       "size": 3
     },
     {
       "id": "nataliesolent.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "rogerlsimon.com",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 3
     },
     {
       "id": "kottke.org",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 2
     },
     {
       "id": "alphecca.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 3
     },
     {
       "id": "damianpenny.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "dpm.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "drweevil.org",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "thefatguy.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "kevinholtsberry.com/blog.html",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "seanet.com/~jimxc/Politics",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "palit.com/tkl.asp",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "nowatermelons.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "site-essential.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "randomjottings.net",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "silflayhraka.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 3
     },
     {
       "id": "unremittingverse.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "windsofchange.net",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "denbeste.nu",
-      "group": 4,
+      "groups": [
+        3,
+        5,
+        3
+      ],
       "size": 2
     },
     {
       "id": "shotinthedark.info",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "musil.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "brothersjudd.com/blog",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "hoystory.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "truthlaidbear.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "colbycosh.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "highclearing.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 3
     },
     {
       "id": "esr.ibiblio.org",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "blackfive.net/main",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "j-bradford-delong.net/movable_type",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 4
     },
     {
       "id": "corante.com/pipeline",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "fightaging.org",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "futurepundit.com",
-      "group": 4,
+      "groups": [
+        0,
+        0,
+        3
+      ],
       "size": 3
     },
     {
       "id": "geekpress.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "howappealing.law.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "iraqthemodel.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "proteinwisdom.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "balloon-juice.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "kitchencabinet.blogspot.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "mattwelch.com/warblog.html",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "nicedoggie.net",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 3
     },
     {
       "id": "interglobal.org/weblog",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "sisu.typepad.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "xnerg.blogspot.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "city-journal.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 6
     },
     {
       "id": "washingtonexaminer.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "realclimatescience.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "babylonbee.com/#",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "claremont.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "dailytorch.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "gatestoneinstitute.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 4
     },
     {
       "id": "forexlive.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 2
     },
     {
       "id": "mishtalk.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 4
     },
     {
       "id": "theautomaticearth.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 2
     },
     {
       "id": "thesaker.is",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 2
     },
     {
       "id": "wolfstreet.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 3
     },
     {
       "id": "saint-andre.com/blog",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "amygdalagf.blogspot.com",
-      "group": 4,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "anticipatoryretaliation.mu.nu",
-      "group": 4,
+      "groups": [
+        3,
+        5,
+        3
+      ],
       "size": 1
     },
     {
       "id": "dynamist.com/weblog",
-      "group": 4,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "livejournal.com/users/rfmcdpei",
-      "group": 4,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "sneakingsuspicions.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "ecoastarchreview.blogspot.com",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 2
     },
     {
       "id": "lifewithoutbuildings.net",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 2
     },
     {
       "id": "neveryetmelted.com",
-      "group": 0,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 3
     },
     {
       "id": "architechnophilia.blogspot.com",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 2
     },
     {
       "id": "archidose.blogspot.com",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 4
     },
     {
       "id": "architecturetylerdurden.blogspot.com",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 1
     },
     {
       "id": "eddriscoll.com/weblog.php",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 2
     },
     {
       "id": "2blowhards.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 1
     },
     {
       "id": "remiss63.blogspot.com",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 2
     },
     {
       "id": "architecturesketches.blogspot.com",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 2
     },
     {
       "id": "architectureyp.blogspot.com",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 1
     },
     {
       "id": "no-pasaran.blogspot.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "lawyersgunsmoneyblog.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 4
     },
     {
       "id": "dashofinsight.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 2
     },
     {
       "id": "bonddad.blogspot.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 2
     },
     {
       "id": "flowingdata.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "statschat.org.nz",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "fark.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "straightdope.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "theborderlinesociopathicblogforboys.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "acculturated.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "artofmanliness.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "theatlantic.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "thefire.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "firstthings.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "billroggio.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "dad29.blogspot.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "prospect.org/weblog",
-      "group": 4,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "amptoons.com/blog",
-      "group": 4,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "tigerhawk.blogspot.com",
-      "group": 4,
+      "groups": [
+        3,
+        0,
+        3
+      ],
       "size": 2
     },
     {
       "id": "americanpowerblog.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "justoneminute.typepad.com/main",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "moonbattery.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "marksteyn.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "aeon.co/magazine",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "bigthink.com",
-      "group": 3,
+      "groups": [
+        4,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "peekinthewell.net/blog",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "businessinsider.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "campusreform.org",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "thecollegefix.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "biggovernment.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "faustasblog.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "gatewaypundit.blogspot.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "nicedeb.wordpress.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "thepiratescove.us",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "washingtonreb.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "weaselzippers.us",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "cnsnews.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "dailycaller.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "dailywire.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "drudgereport.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "foreignpolicy.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "humanevents.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "nationaljournal.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "politico.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "salon.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "corner.nationalreview.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "economist.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "thehill.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "townhall.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "freebeacon.com",
-      "group": 0,
+      "groups": [
+        0,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "unherd.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "desertsun.co.uk/blog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "adamsmith.org/blog",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "archdaily.com",
-      "group": 7,
+      "groups": [
+        7,
+        4,
+        6
+      ],
       "size": 2
     },
     {
       "id": "hayekcenter.org",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "11d.typepad.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "atrios.blogspot.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 3
     },
     {
       "id": "bestofbothworlds.blogspot.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "bloodandtreasure.typepad.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 3
     },
     {
       "id": "cscs.umich.edu/~crshalizi/weblog",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "coreyrobin.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "dailykos.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 3
     },
     {
       "id": "digbysblog.blogspot.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "talkingpointsmemo.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 4
     },
     {
       "id": "juancole.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 3
     },
     {
       "id": "motherjones.com/kevin-drum",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 3
     },
     {
       "id": "lsolum.typepad.com/legaltheory",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "nielsenhayden.com/makinglight",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "lynch.foreignpolicy.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "discourse.net",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "scienceblogs.com/pharyngula",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "sluggerotoole.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 3
     },
     {
       "id": "unspeak.net",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "virtualstoa.net",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "scienceblogs.com/principles",
-      "group": 2,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "yorkshire-ranter.blogspot.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "",
-      "group": 8,
+      "groups": [
+        8,
+        6,
+        8
+      ],
       "size": 0
     },
     {
       "id": "motls.blogspot.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "resonaances.blogspot.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "scotusblog.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "3quarksdaily.com",
-      "group": 3,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "mainlymacro.blogspot.co.uk",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 3
     },
     {
       "id": "crooksandliars.com",
-      "group": 6,
+      "groups": [
+        6,
+        1,
+        5
+      ],
       "size": 2
     },
     {
       "id": "correntewire.com",
-      "group": 6,
+      "groups": [
+        6,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "pollingreport.co.uk/blog/index.php",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "flipchartfairytales.wordpress.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "coppolacomment.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "notthetreasuryview.blogspot.co.uk",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "noahpinionblog.blogspot.co.uk",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "conversableeconomist.wpcomstaging.com",
-      "group": 1,
+      "groups": [
+        1,
+        1,
+        0
+      ],
       "size": 2
     },
     {
       "id": "micromath.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "lamington.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "dam.brown.edu/people/mumford/blog.html",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "blogs.ethz.ch/kowalski",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "valuevar.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "ldtopology.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "math.columbia.edu/~dejong/wordpress",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "mathematicswithoutapologies.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "floerhomology.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "noncommutativegeometry.blogspot.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "qchu.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "quomodocumque.wordpress.com",
-      "group": 2,
+      "groups": [
+        2,
+        2,
+        2
+      ],
       "size": 2
     },
     {
       "id": "politicalwire.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 3
     },
     {
       "id": "pajamasmedia.com/richardfernandez",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "pajamasmedia.com/instapundit",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 3
     },
     {
       "id": "winteryknight.wordpress.com",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "pajamasmedia.com/eddriscoll",
-      "group": 0,
+      "groups": [
+        3,
+        0,
+        1
+      ],
       "size": 2
     },
     {
       "id": "fafblog.blogspot.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "blog.foreignpolicy.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "politicaltheory.info",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "rawstory.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "wonkette.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "themonkeycage.org",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "d-squareddigest.blogspot.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "neweconomist.blogs.com/new_economist",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "angrybear.blogspot.com",
-      "group": 5,
+      "groups": [
+        5,
+        3,
+        4
+      ],
       "size": 2
     },
     {
       "id": "wsws.org",
-      "group": 6,
+      "groups": [
+        6,
+        0,
+        5
+      ],
       "size": 2
     },
     {
       "id": "lewrockwell.com",
-      "group": 6,
+      "groups": [
+        6,
+        0,
+        5
+      ],
       "size": 2
     }
   ],

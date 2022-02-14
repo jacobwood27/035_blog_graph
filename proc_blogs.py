@@ -94,15 +94,31 @@ def main(txtfile, todofile, filter=True):
             # [print(g.vs[i]) for i in to_delete_ids]
             g.delete_vertices(to_delete_ids)
     
+    # print(ig.summary(g))
+
     # Find communities
-    part = leidenalg.find_partition(g, leidenalg.RBConfigurationVertexPartition, resolution_parameter = 1.0)
-    part_dic = dict()
-    for (pn,p) in enumerate(part):
-        for i in p:
-            part_dic[i] = pn
-            
-    print(ig.summary(g))
-    [print(len(p)) for p in part];
+    algos = [leidenalg.RBConfigurationVertexPartition,
+             leidenalg.RBERVertexPartition,
+             leidenalg.CPMVertexPartition,]
+            #  leidenalg.SignificanceVertexPartition,
+            #  leidenalg.SurpriseVertexPartition]
+    max_n_groups = 10
+    s_res0 = 1.0
+    dicts = []
+    for algo in algos:
+        n_groups = max_n_groups + 1
+        s_res = s_res0
+        while n_groups > max_n_groups:
+            part = leidenalg.find_partition(g,algo, resolution_parameter=s_res)
+            n_groups = len(part)
+            s_res /= 1.2
+        dic = dict()
+        for (pn,p) in enumerate(part):
+            for i in p:
+                dic[i] = pn
+        dicts.append(dic)
+        print(len(part))
+        # [print(len(p)) for p in part];
     
     #Write out to json
     nodes_v = []
@@ -110,7 +126,7 @@ def main(txtfile, todofile, filter=True):
     for (i,v) in enumerate(g.vs):
         nodes_v.append({
             "id": v["name"],
-            "group": part_dic[i],
+            "groups": [dic[i] for dic in dicts],
             "size": len(g.neighbors(v,mode="in"))
         })
         outn = g.neighbors(v,mode="out")
@@ -134,6 +150,7 @@ def main(txtfile, todofile, filter=True):
     with open(todofile, 'w') as f:
         for s in s_sort:
             print("[" + anodes[s] + "]", file=f)
+    print([scores[s] for s in s_sort[1:20]])
             
     #Write out new blogs.txt
     scores = [len(g0.neighbors(g0.vs.find(n),mode="in")) for n in anodes]

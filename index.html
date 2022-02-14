@@ -1,197 +1,41 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<style>
+<link rel="stylesheet" href="style.css">
 
-text {
-  font: 24px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-anchor: middle;
-  pointer-events: none;
-}
+<body>
+  
 
-.tooltip {
-  position: absolute;
-  background: cornsilk;
-  border: 1px solid black;
-  border-radius: 3px;
-  padding: 2px 4px;
-}
+  <svg width=100vw height=100vh style="position:fixed; z-index:-1"></svg>
+  <div id="tooltip" class="tooltip" style="display: none;"></div>
 
-svg .grey {
-  fill: rgb(114, 132, 56);
-  stroke: rgb(114, 132, 56);
-  stroke-width: 1;
-}
+  <button type="button" id="collapsible" class="collapsible">Settings</button>
+  <div class="content">
+    <div>
+      <p style="margin-bottom: 2px; margin-top: 0px; font-weight:bold">Charge Parameter</p> 
+      <input type="range" name="chargeSlider" id=chargeSlider min="0" max="50" value="20">
+    </div>
+    <div>
+      <p style="margin-bottom: 2px; font-weight:bold">Grouping Algorithm</p>
+      <input type="radio" id="rbcvp" name="group_alg" value=0 checked>
+      <label for="rbcvp"><a href="https://leidenalg.readthedocs.io/en/stable/reference.html#rbconfigurationvertexpartition" target="_blank" rel="noopener noreferrer">RBConfigurationVertexPartition</a></label><br>
+      <input type="radio" id="rbervp" name="group_alg" value=1>
+      <label for="rbervp"><a href="https://leidenalg.readthedocs.io/en/stable/reference.html#rbervertexpartition" target="_blank" rel="noopener noreferrer">RBERVertexPartition</a></label><br>
+      <input type="radio" id="cpmvp" name="group_alg" value=2>
+      <label for="cpmvp"><a href="https://leidenalg.readthedocs.io/en/stable/reference.html#cpmvertexpartition" target="_blank" rel="noopener noreferrer">CPMVertexPartition</a></label><br>
+    </div>
+    <div>
+      <p style="margin-bottom: 2px; font-weight:bold">Line Legend</p>
+      <p style="margin-bottom: 2px; margin-top: 2px; font-weight:bold; color: #a569b9">Incoming link</p>
+      <p style="margin-bottom: 2px; margin-top: 2px; font-weight:bold; color: #49afa2">Outgoing link</p>
+    </div>
+    <div>
+      <p style="margin-bottom: 2px; font-weight:bold">Links</p>
+      <!-- <p style="margin-bottom: 2px; margin-top: 2px; font-weight:bold; color: #a569b9"><a href="https://jacobw.xyz/projects/blogosphere_graph/">About</a></p> -->
+      <p style="margin-bottom: 2px; margin-top: 2px; font-weight:bold; color: #49afa2"><a href="https://raw.githubusercontent.com/jacobwood27/035_blog_graph/master/blogs.txt">Collected Data</a></p>
+      <p style="margin-bottom: 2px; margin-top: 2px; font-weight:bold; color: #49afa2"><a href="https://raw.githubusercontent.com/jacobwood27/035_blog_graph/master/dat.json">Processed Data</a></p>
+    </div>
+  </div>
+</body>
 
-.node:hover circle {
-  fill: orange;
-}
-
-body {
-  overflow: hidden;
-}
-
-</style>
-<svg width=100vw height=100vh>
-</svg>
-<div id="tooltip" class="tooltip" style="display: none;"></div>
 <script src="https://d3js.org/d3.v7.min.js"></script>
-<script>
-var svg = d3.select("svg");
-
-var shapes = svg.append("g");
-
-var width = window.innerWidth;
-var height = window.innerHeight;
-//var color = "#b67a4e";
-//var color = d3.scaleOrdinal(["#4e79a7","#f28e2c","#e15759","#76b7b2","#59a14f","#edc949","#af7aa1","#ff9da7","#9c755f","#bab0ab"]);
-//var color = d3.scaleOrdinal(["#c97d34","#5c38b8","#66b743","#be4ed7","#b5a647","#7176d3","#d14530","#66b28b","#c5449b","#4c6431","#cd466b","#5d96ba","#76372e","#c48ac1","#ce8b7d","#5c3b70"]);
-//var color = d3.scaleOrdinal(d3.schemeSpectral[9]);
-var color = d3.scaleOrdinal(d3.schemeTableau10);
-
-let zoom = d3.zoom()
-  .on('zoom', handleZoom);
-
-function handleZoom(e) {
-  d3.select('svg').select('g')
-    .attr('transform', e.transform);
-}
-
-function initZoom() {
-  d3.select('svg')
-    .call(zoom);
-} 
-
-var simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function(d) { return d.id; }))
-    .force("charge", d3.forceManyBody().strength(-20))
-    .force("collision", d3.forceCollide().radius(function(d) { return 2*d.size+1; }))
-    .force("center", d3.forceCenter(width / 2, height / 2).strength(0.5))
-    .force("x", d3.forceX(0.0).strength(0.01))
-    .force("y", d3.forceY(0.0).strength(0.01))
-    .alphaDecay(0.01);
-
-d3.json("dat.json").then(graph => {
-
-  var link = shapes
-      .append("g")
-      .attr("class", "links")
-      .attr("stroke-opacity", 0.2)
-      .attr("stroke", "#999")
-      .selectAll("line")
-      .data(graph.links)
-      .enter().append("line")
-      .attr("marker-end", "url(#arrow)")
-      .attr("stroke-width", 1); //function(d) { return Math.sqrt(d.value); });
-
-  var node = shapes
-    .append("g")
-    .attr("class", "nodes")
-    .selectAll("g")
-    .data(graph.nodes)
-    .enter().append("g")
-    .classed("fixed", d => d.fx !== undefined);
-
-  var circles = node.append("circle")
-    .attr("r", function(d) { return 2*d.size +1; })
-    .attr("fill", function(d) { return color(d.group); })
-    .attr("stroke-width", "0")
-    .on("mouseenter", (evt, d) => {
-      link
-        .attr("display", "none")
-        .filter(l => l.source.id === d.id || l.target.id === d.id)
-        .attr("stroke-opacity", 0.7)
-        .attr("stroke", "#a569b9")
-        .attr("display", "block")
-        .attr("stroke-width", 3)
-        .filter(l => l.source.id === d.id)
-        .attr("stroke", "#49afa2")
-        
-    })
-    .on("mouseleave", evt => {
-      link.attr("display", "block")
-          .attr("stroke-opacity", 0.2)
-          .attr("stroke-width", 1)
-          .attr("stroke", "#999");
-    });;
-
-  node.append("text")
-    .text(function(d) { return d.id; })
-    .style("font-size", function(d) { return (2 * ( 2*d.size +1) - 0) / this.getComputedTextLength() * 0.8 * 24 + "px"; })
-    .attr("dy", ".35em");
-
-
-  const tooltipTriggers = document.querySelectorAll("circle");
-  Array.from(tooltipTriggers).map(trigger => {
-        trigger.addEventListener('mousemove', showTooltip);
-        trigger.addEventListener('mouseout', hideTooltip);
-  });
-
-
-  // Create a drag handler and append it to the node object instead
-  var drag_handler = d3.drag()
-      .on("start", dragstarted)
-      .on("drag", dragged)
-      .on("end", dragended);
-
-  drag_handler(node);
-  
-
-  simulation
-      .nodes(graph.nodes)
-      .on("tick", ticked);
-
-  simulation.force("link")
-      .links(graph.links);
-
-  function ticked() {
-    link
-        .attr("x1", function(d) { return d.source.x; })
-        .attr("y1", function(d) { return d.source.y; })
-        .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; });
-
-    node
-        .attr("transform", function(d) {
-          return "translate(" + d.x + "," + d.y + ")";
-        })
-  }
-});
-
-function dragstarted(event,d) {
-  if (!event.active) simulation.alphaTarget(0.3).restart();
-  d.fx = d.x;
-  d.fy = d.y;
-  d3.select(this).classed("fixed", d.fixed = true);
-}
-
-function dragged(event,d) {
-  d.fx = event.x;
-  d.fy = event.y;
-}
-
-function dragended(event,d) {
-  if (!event.active) simulation.alphaTarget(0);
-  d.fx = null;
-  d.fy = null;
-}
-
-initZoom();
-
-function showTooltip(event) {
-
-  let tooltipElement = document.getElementById('tooltip');
-  
-  tooltipElement.innerHTML = event.target.nextElementSibling.innerHTML;
-  tooltipElement.style.display = 'block';
-  tooltipElement.style.left = event.pageX + 10 + 'px';
-  tooltipElement.style.top = event.pageY + 10 + 'px';
-}
-
-function hideTooltip() {
-  var tooltip = document.getElementById('tooltip');
-  tooltip.style.display = 'none';
-}
-
-
-
-</script>
+<script src="script.js"></script>
