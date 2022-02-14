@@ -1658,6 +1658,7 @@ ruwart.com
 chicagoboyz.net
 knowledgeproblem.com
 crookedtimber.org
+braddelong.substack.com
 danieldrezner.com/blog
 volokh.com
 powerlineblog.com
@@ -1723,7 +1724,6 @@ blog.bearstrong.net
 blackfive.net/main
 mcgeheezone.com/blogoSFERICS/index.html
 blogsofwar.com
-j-bradford-delong.net/movable_type
 brian.carnell.com
 aintnobaddude.com
 burchismo.gregburch.net
@@ -3315,13 +3315,13 @@ marginalrevolution.com
 econbrowser.com
 economistsview.typepad.com
 calculatedrisk.blogspot.com
+braddelong.substack.com
 krugman.blogs.nytimes.com
 newmonetarism.blogspot.com
 stumblingandmumbling.typepad.com
 macroblog.typepad.com/macroblog
 davegiles.blogspot.com
 andolfatto.blogspot.com
-j-bradford-delong.net/movable_type
 merchantsandmechanics.com
 cocktailpartyeconomics.com/blogs
 milescorak.wordpress.com
@@ -3688,6 +3688,7 @@ susiemadrak.com
 [truthonthemarket.com]
 [rantburg.com]
 hotair.com
+instapundit.com
 buzzmachine.com
 dailypundit.com
 davidwarrenonline.com
@@ -3708,7 +3709,6 @@ pajamasmedia.com/richardfernandez
 curmudgeonlyskeptical.blogspot.com
 drybonesblog.blogspot.com
 grouchyoldcripple.com
-pajamasmedia.com/instapundit
 pajamasmedia.com/rogerlsimon
 pajamasmedia.com/vodkapundit
 [andolfatto.blogspot.com]
@@ -3761,13 +3761,13 @@ marginalrevolution.com
 econbrowser.com
 economistsview.typepad.com
 calculatedrisk.blogspot.com
+braddelong.substack.com
 krugman.blogs.nytimes.com
 newmonetarism.blogspot.com
 stumblingandmumbling.typepad.com
 macroblog.typepad.com/macroblog
 davegiles.blogspot.com
 andolfatto.blogspot.com
-j-bradford-delong.net/movable_type
 merchantsandmechanics.com
 cocktailpartyeconomics.com/blogs
 milescorak.wordpress.com
@@ -3977,6 +3977,7 @@ outsidethebeltway.com
 pileusblog.wordpress.com
 ace.mu.nu
 hotair.com
+instapundit.com
 ricochet.com
 dailypundit.com
 leadandgold.blogspot.com
@@ -3998,7 +3999,6 @@ nicedeb.wordpress.com
 thepiratescove.us
 washingtonreb.com
 hayekcenter.org
-pajamasmedia.com/instapundit
 winteryknight.wordpress.com
 recovering-liberal.blogspot.com
 adriennescatholiccorner.blogspot.com
@@ -4248,6 +4248,7 @@ varight.com
 marginalrevolution.com
 overcomingbias.com
 crookedtimber.org
+braddelong.substack.com
 thedailybeast.com/voxbox/asymmetrical-information.html
 danieldrezner.com/blog
 aldaily.com
@@ -4265,7 +4266,6 @@ redstate.com
 talkleft.com
 washingtonmonthly.com
 highclearing.com
-j-bradford-delong.net/movable_type
 howappealing.law.com
 kitchencabinet.blogspot.com
 dynamist.com/weblog
@@ -4365,7 +4365,6 @@ danieldrezner.com/blog
 rjwaldmann.blogspot.com
 aldaily.com
 englishrussia.com
-j-bradford-delong.net/movable_type
 mattwelch.com/warblog.html
 amygdalagf.blogspot.com
 livejournal.com/users/rfmcdpei
@@ -4825,6 +4824,7 @@ softmachines.org/wordpress
 tomorrowstransactions.com
 tutor2u.net/blog/index.php/economics
 [no-pasaran.blogspot.com]
+instapundit.com
 thediplomad.blogspot.com
 legalinsurrection.com
 normblog.typepad.com/normblog
@@ -4833,7 +4833,6 @@ daybydaycartoon.com
 iraqthemodel.blogspot.com
 faustasblog.com
 pajamasmedia.com/richardfernandez
-pajamasmedia.com/instapundit
 thedissidentfrogman.com/dacha/index.html
 eursoc.com
 eriksvane.com
@@ -5037,3 +5036,6 @@ unusualplaces.org
 wsj.com
 eia.gov/petroleum/supply/weekly
 winteryknight.com
+[realclimate.org]
+[talkingpointsmemo.com]
+[mishtalk.com]
