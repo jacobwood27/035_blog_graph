@@ -2,8 +2,6 @@ var svg = d3.select("svg");
 
 var shapes = svg.append("g");
 
-
-
 var circles;
 var node;
 var width = window.innerWidth;
@@ -13,13 +11,6 @@ var height = window.innerHeight;
 //var color = d3.scaleOrdinal(["#c97d34","#5c38b8","#66b743","#be4ed7","#b5a647","#7176d3","#d14530","#66b28b","#c5449b","#4c6431","#cd466b","#5d96ba","#76372e","#c48ac1","#ce8b7d","#5c3b70"]);
 //var color = d3.scaleOrdinal(d3.schemeSpectral[9]);
 var color = d3.scaleOrdinal(d3.schemeTableau10);
-
-var colFuncs = {
-    "Group":  function (d) { return color (d.groups[0]); },
-    "Name":   function (d) { return color (d.groups[1]); },
-    "Madame": function (d) { return color (d.groups[2]); },
-};
-var currentColFunc = colFuncs["Group"];
 
 var group_select = 0;
 
