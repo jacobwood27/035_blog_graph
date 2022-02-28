@@ -145,6 +145,8 @@ initZoom();
 function showTooltip(event) {
 
   let tooltipElement = document.getElementById('tooltip');
+
+  simulation.stop();
   
   tooltipElement.innerHTML = event.target.nextElementSibling.innerHTML;
   tooltipElement.style.display = 'block';
@@ -153,6 +155,7 @@ function showTooltip(event) {
 }
 
 function hideTooltip() {
+  simulation.alphaTarget(0.3).restart();
   var tooltip = document.getElementById('tooltip');
   tooltip.style.display = 'none';
 }

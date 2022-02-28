@@ -27,7 +27,8 @@ TRANSLATE = {
     "taxprof.typepad.com/taxprof_blog": "taxprof.typepad.com",
     "gnxp.com/": "razib.substack.com",
     "io9.com": "gizmodo.com/io9",
-    "worthwhile.typepad.com/worthwhile_canadian_initi": "worthwhile.typepad.com"
+    "worthwhile.typepad.com/worthwhile_canadian_initi": "worthwhile.typepad.com",
+    "rogerfarmerblog.blogspot.com": "rogerfarmer.com"
 }
 
 PREFIXES = [
@@ -37,11 +38,6 @@ PREFIXES = [
     "http://",
     "www.",
 ]
-
-def get_root(s):
-    s = s.strip()
-    s = s.strip('/')
-    return s
 
 def clean(s):
     s = s.strip()
@@ -95,6 +91,9 @@ def main(txtfile, todofile, filter=True):
             g.delete_vertices(to_delete_ids)
     
     # print(ig.summary(g))
+    
+    # print(g.degree_distribution())
+    
 
     # Find communities
     algos = [leidenalg.RBConfigurationVertexPartition,
