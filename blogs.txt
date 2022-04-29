@@ -209,6 +209,7 @@ wcoats.wordpress.com
 [mungowitzend.blogspot.com]
 marginalrevolution.com
 cafehayek.com
+econlog.econlib.org
 economistsview.typepad.com
 gregmankiw.blogspot.com
 overcomingbias.com
@@ -216,7 +217,6 @@ johnhcochrane.blogspot.com
 knowledgeproblem.com
 bleedingheartlibertarians.com
 coordinationproblem.org
-econlib.org
 reason.com
 washingtonpost.com/news/monkey-cage/?utm_term=.627a8b0a4626
 noahpinionblog.blogspot.com
@@ -2389,7 +2389,6 @@ overcomingbias.com
 cato.org/blog
 fee.org
 reason.com/blog
-econlib.org
 reason.com
 calculatedrisk.blogspot.com
 keithhennessey.com

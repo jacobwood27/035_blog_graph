@@ -28,7 +28,8 @@ TRANSLATE = {
     "gnxp.com/": "razib.substack.com",
     "io9.com": "gizmodo.com/io9",
     "worthwhile.typepad.com/worthwhile_canadian_initi": "worthwhile.typepad.com",
-    "rogerfarmerblog.blogspot.com": "rogerfarmer.com"
+    "rogerfarmerblog.blogspot.com": "rogerfarmer.com",
+    "econlib.org": "econlog.econlib.org"
 }
 
 PREFIXES = [
@@ -38,6 +39,11 @@ PREFIXES = [
     "http://",
     "www.",
 ]
+
+def remove_prefix(input_string, prefix):
+    if prefix and input_string.startswith(prefix):
+        return input_string[len(prefix)+1:]
+    return input_string
 
 def clean(s):
     s = s.strip()
@@ -49,7 +55,7 @@ def clean(s):
         node = False
     
     for p in PREFIXES:
-        s = s.removeprefix(p)
+        s = remove_prefix(s,p)
     s = s.strip('/')
     
     if s in TRANSLATE:
